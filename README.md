@@ -30,7 +30,7 @@ The result.
 The program closes after 3 sec.
 
 # Prerequisites
-You shoul have C installed in your system.
+You should have C installed in your system.
 
 
 
