@@ -1,5 +1,5 @@
-# second-hand-vehicle-pricing-application-using-c
-# calculates what should be the selling price of your vehicle or what the should be the seconnd hand buying price of a vehicle should be using three simple factors.
+# Second-hand-vehicle-pricing-application-using-c
+# Calculates what should be the selling price of your vehicle or what the should be the seconnd hand buying price of a vehicle should be using three simple factors.
 The factors are -
 killometers driven
 condition of the vehicle
